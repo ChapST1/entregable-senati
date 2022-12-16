@@ -1,0 +1,153 @@
+[
+  [
+    {
+      "id": "0001",
+      "img": "https://gosustore.com/preview/a/4/a4672493299562a34fe4f5c3c2abf853.png",
+      "info": " Xtreme PC Gamer Geforce GTX 1650 Core I5 10400F 16GB SSD 500GB Monitor 27 165hz"
+    },
+    {
+      "id": "0002",
+      "img": "https://falabella.scene7.com/is/image/FalabellaPE/gsc_114474223_1020107_2?wid=1500&hei=1500&qlt=70",
+      "info": "COMPUTADORA RYZEN 5 5600G RAM 16GB SSD 480GB PANTALLA 22 FULL HD",
+      "precio": "S/ 2,279",
+      "descripcion": "Sin informacion"
+    },
+    {
+      "id": "0003",
+      "img": "https://mipclista.com/3761-large_default/pc-gamer-haku-amd-a8.jpg",
+      "info": "PC Gamer Haku AMD A10",
+      "precio": "2.099",
+      "descripcion": "Precio Regular s/2,099 AMD A10 5800k 3.8GHz  Disco Sólido SSD 500GB Memoria RAM 8GB DDR3 / 1600 MHz Monitor Widescreen 19' HD Mainboard Chipset AMD FM2+ RJ45/ VGA Fuente real 450 W Kit Gamer: Teclado/ Mouse Auricular, Camara Web, Antena Wifi Garantía 1 año"
+    },
+    {
+      "id": "0004",
+      "img": "https://mipclista.com/3797-large_default/pc-gamer-haku-plus-ryzen-5-1500x.jpg",
+      "info": "PC Gamer Haku Plus Ryzen 5-1500x",
+      "precio": "2.099",
+      "descripcion": "Precio Regular s/2,099 AMD A10 5800k 3.8GHz  Disco Sólido SSD 500GB Memoria RAM 8GB DDR3 / 1600 MHz Monitor Widescreen 19' HD Mainboard Chipset AMD FM2+ RJ45/ VGA Fuente real 450 W Kit Gamer: Teclado/ Mouse Auricular, Camara Web, Antena Wifi Garantía 1 año"
+    },
+    {
+      "id": "0005",
+      "img": "https://mipclista.com/3796-large_default/pc-gamer-haku-plus-amd-a8.jpg",
+      "info": "PC Gamer Haku Plus AMD A10",
+      "precio": "2.099",
+      "descripcion": "Precio Regular s/2,099 AMD A10 5800k 3.8GHz  Disco Sólido SSD 500GB Memoria RAM 8GB DDR3 / 1600 MHz Monitor Widescreen 19' HD Mainboard Chipset AMD FM2+ RJ45/ VGA Fuente real 450 W Kit Gamer: Teclado/ Mouse Auricular, Camara Web, Antena Wifi Garantía 1 año"
+    },
+    {
+      "id": "0006",
+      "img": "https://mipclista.com/3801-large_default/pc-gamer-ryu-blue-plus-core-i7-7ma.jpg",
+      "info": "PC Gamer Ryu Blue Plus Core I7 7",
+      "precio": "2.099",
+      "descripcion": "Precio Regular s/2,099 AMD A10 5800k 3.8GHz  Disco Sólido SSD 500GB Memoria RAM 8GB DDR3 / 1600 MHz Monitor Widescreen 19' HD Mainboard Chipset AMD FM2+ RJ45/ VGA Fuente real 450 W Kit Gamer: Teclado/ Mouse Auricular, Camara Web, Antena Wifi Garantía 1 año"
+    },
+    {
+      "id": "0007",
+      "img": "https://mipclista.com/3800-large_default/pc-gamer-ryu-blue-plus-core-i7-4th-gen.jpg",
+      "info": "PC Gamer Ryu Blue Plus Core I7 4th Gen",
+      "precio": "2.099",
+      "descripcion": "Precio Regular s/2,099 AMD A10 5800k 3.8GHz  Disco Sólido SSD 500GB Memoria RAM 8GB DDR3 / 1600 MHz Monitor Widescreen 19' HD Mainboard Chipset AMD FM2+ RJ45/ VGA Fuente real 450 W Kit Gamer: Teclado/ Mouse Auricular, Camara Web, Antena Wifi Garantía 1 año"
+    }
+  ],
+  [
+    {
+      "id": "0008",
+      "img": "https://mipclista.com/3832-large_default/laptop-lenovo-ideapad-1-14igl05-14-celeron-n4020.jpg",
+      "info": "Laptop Lenovo Ideapad 1 14IGL05 14 Celeron N4020",
+      "precio": "2.099",
+      "descripcion": "Precio Regular s/2,099 AMD A10 5800k 3.8GHz  Disco Sólido SSD 500GB Memoria RAM 8GB DDR3 / 1600 MHz Monitor Widescreen 19' HD Mainboard Chipset AMD FM2+ RJ45/ VGA Fuente real 450 W Kit Gamer: Teclado/ Mouse Auricular, Camara Web, Antena Wifi Garantía 1 año"
+    },
+    {
+      "id": "0009",
+      "img": "https://mipclista.com/3414-large_default/laptop-herobook-pro-141-celeron-n4020.jpg",
+      "info": "Laptop Herobook Pro - 14.1 Celeron N4020",
+      "precio": "2.099",
+      "descripcion": "Precio Regular s/2,099 AMD A10 5800k 3.8GHz  Disco Sólido SSD 500GB Memoria RAM 8GB DDR3 / 1600 MHz Monitor Widescreen 19' HD Mainboard Chipset AMD FM2+ RJ45/ VGA Fuente real 450 W Kit Gamer: Teclado/ Mouse Auricular, Camara Web, Antena Wifi Garantía 1 año"
+    },
+    {
+      "id": "00010",
+      "img": "https://mipclista.com/3653-large_default/laptop-hp-250-g8-156-core-i3.jpg",
+      "info": "Laptop HP 250 G8 15.6 Core I3",
+      "precio": "2.099",
+      "descripcion": "Precio Regular s/2,099 AMD A10 5800k 3.8GHz  Disco Sólido SSD 500GB Memoria RAM 8GB DDR3 / 1600 MHz Monitor Widescreen 19' HD Mainboard Chipset AMD FM2+ RJ45/ VGA Fuente real 450 W Kit Gamer: Teclado/ Mouse Auricular, Camara Web, Antena Wifi Garantía 1 año"
+    },
+    {
+      "id": "00011",
+      "img": "https://mipclista.com/3648-large_default/laptop-dell-inspiron-15-3501-156-core-i3-11th.jpg",
+      "info": "Laptop Dell Inspiron 15 3501 15.6' Core I3 11th",
+      "precio": "2.099",
+      "descripcion": "Precio Regular s/2,099 AMD A10 5800k 3.8GHz  Disco Sólido SSD 500GB Memoria RAM 8GB DDR3 / 1600 MHz Monitor Widescreen 19' HD Mainboard Chipset AMD FM2+ RJ45/ VGA Fuente real 450 W Kit Gamer: Teclado/ Mouse Auricular, Camara Web, Antena Wifi Garantía 1 año"
+    },
+    {
+      "id": "00012",
+      "img": "https://mipclista.com/3836-large_default/laptop-hp-15-df1023dx-156-ryzen-3.jpg",
+      "info": "Laptop HP 15-Df1023dx 15.6' Ryzen 3",
+      "precio": "2.099",
+      "descripcion": "Precio Regular s/2,099 AMD A10 5800k 3.8GHz  Disco Sólido SSD 500GB Memoria RAM 8GB DDR3 / 1600 MHz Monitor Widescreen 19' HD Mainboard Chipset AMD FM2+ RJ45/ VGA Fuente real 450 W Kit Gamer: Teclado/ Mouse Auricular, Camara Web, Antena Wifi Garantía 1 año"
+    },
+    {
+      "id": "00013",
+      "img": "https://mipclista.com/3705-large_default/laptop-hp-victus-156-fa0032dx-core-i7-12th.jpg",
+      "info": "Laptop HP Victus 15.6' FA0032DX Core I7 12th",
+      "precio": "2.099",
+      "descripcion": "Precio Regular s/2,099 AMD A10 5800k 3.8GHz  Disco Sólido SSD 500GB Memoria RAM 8GB DDR3 / 1600 MHz Monitor Widescreen 19' HD Mainboard Chipset AMD FM2+ RJ45/ VGA Fuente real 450 W Kit Gamer: Teclado/ Mouse Auricular, Camara Web, Antena Wifi Garantía 1 año"
+    },
+    {
+      "id": "00014",
+      "img": "https://mipclista.com/3356-large_default/laptop-lenovo-ideapad-3-gaming-156-core-i5-11th.jpg",
+      "info": "Laptop Lenovo Ideapad 3 Gaming 15.6' Core I5 11th",
+      "precio": "2.099",
+      "descripcion": "Precio Regular s/2,099 AMD A10 5800k 3.8GHz  Disco Sólido SSD 500GB Memoria RAM 8GB DDR3 / 1600 MHz Monitor Widescreen 19' HD Mainboard Chipset AMD FM2+ RJ45/ VGA Fuente real 450 W Kit Gamer: Teclado/ Mouse Auricular, Camara Web, Antena Wifi Garantía 1 año"
+    }
+  ],
+  [
+    {
+      "id": "00015",
+      "img": "https://mipclista.com/3171-large_default/case-gamer-1st-player-zx7.jpg",
+      "info": "Adiciona",
+      "precio": "2.099",
+      "descripcion": "Precio Regular s/2,099 AMD A10 5800k 3.8GHz  Disco Sólido SSD 500GB Memoria RAM 8GB DDR3 / 1600 MHz Monitor Widescreen 19' HD Mainboard Chipset AMD FM2+ RJ45/ VGA Fuente real 450 W Kit Gamer: Teclado/ Mouse Auricular, Camara Web, Antena Wifi Garantía 1 año"
+    },
+    {
+      "id": "00016",
+      "img": "https://mipclista.com/3160-large_default/case-gambyte-goliat.jpg",
+      "info": "Adiciona",
+      "precio": "2.099",
+      "descripcion": "Precio Regular s/2,099 AMD A10 5800k 3.8GHz  Disco Sólido SSD 500GB Memoria RAM 8GB DDR3 / 1600 MHz Monitor Widescreen 19' HD Mainboard Chipset AMD FM2+ RJ45/ VGA Fuente real 450 W Kit Gamer: Teclado/ Mouse Auricular, Camara Web, Antena Wifi Garantía 1 año"
+    },
+    {
+      "id": "00017",
+      "img": "https://mipclista.com/3790-large_default/computadora-core-i5-6th.jpg",
+      "info": "Computadora Core I5 6th",
+      "precio": "2.099",
+      "descripcion": "Precio Regular s/2,099 AMD A10 5800k 3.8GHz  Disco Sólido SSD 500GB Memoria RAM 8GB DDR3 / 1600 MHz Monitor Widescreen 19' HD Mainboard Chipset AMD FM2+ RJ45/ VGA Fuente real 450 W Kit Gamer: Teclado/ Mouse Auricular, Camara Web, Antena Wifi Garantía 1 año"
+    },
+    {
+      "id": "00018",
+      "img": "https://mipclista.com/3791-large_default/computadora-core-i7-7700.jpg",
+      "info": "Computadora Core I7 7700",
+      "precio": "2.099",
+      "descripcion": "Precio Regular s/2,099 AMD A10 5800k 3.8GHz  Disco Sólido SSD 500GB Memoria RAM 8GB DDR3 / 1600 MHz Monitor Widescreen 19' HD Mainboard Chipset AMD FM2+ RJ45/ VGA Fuente real 450 W Kit Gamer: Teclado/ Mouse Auricular, Camara Web, Antena Wifi Garantía 1 año"
+    },
+    {
+      "id": "00019",
+      "img": "https://mipclista.com/3792-large_default/computadora-core-i5-10400f-2.jpg",
+      "info": "Computadora Core I5",
+      "precio": "2.099",
+      "descripcion": "Precio Regular s/2,099 AMD A10 5800k 3.8GHz  Disco Sólido SSD 500GB Memoria RAM 8GB DDR3 / 1600 MHz Monitor Widescreen 19' HD Mainboard Chipset AMD FM2+ RJ45/ VGA Fuente real 450 W Kit Gamer: Teclado/ Mouse Auricular, Camara Web, Antena Wifi Garantía 1 año"
+    },
+    {
+      "id": "00020",
+      "img": "https://mipclista.com/3625-large_default/computadora-core-i5-10400f-3.jpg",
+      "info": "Computadora Core I5 10400F",
+      "precio": "2.099",
+      "descripcion": "Precio Regular s/2,099 AMD A10 5800k 3.8GHz  Disco Sólido SSD 500GB Memoria RAM 8GB DDR3 / 1600 MHz Monitor Widescreen 19' HD Mainboard Chipset AMD FM2+ RJ45/ VGA Fuente real 450 W Kit Gamer: Teclado/ Mouse Auricular, Camara Web, Antena Wifi Garantía 1 año"
+    },
+    {
+      "id": "00021",
+      "img": "https://mipclista.com/3627-large_default/computadora-core-i5-12400f.jpg",
+      "info": "Computadora Core I5 12400F",
+      "precio": "2.099",
+      "descripcion": "Precio Regular s/2,099 AMD A10 5800k 3.8GHz  Disco Sólido SSD 500GB Memoria RAM 8GB DDR3 / 1600 MHz Monitor Widescreen 19' HD Mainboard Chipset AMD FM2+ RJ45/ VGA Fuente real 450 W Kit Gamer: Teclado/ Mouse Auricular, Camara Web, Antena Wifi Garantía 1 año"
+    }
+  ]
+]

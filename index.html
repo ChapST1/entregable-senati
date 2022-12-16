@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Media Pro</title>
+    <link rel="stylesheet" href="./css/styles.css" />
+    <script
+      src="https://kit.fontawesome.com/8ff5336caf.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <header class="cabecera">
+      <img src="./imagenes/logo/logo.png" alt="logo" class="logo" />
+      <nav class="nav">
+        <ul class="ul">
+          <li class="li"><a href="#" class="a">Celulares</a></li>
+          <li class="li"><a href="#" class="a">Pc</a></li>
+          <li class="li"><a href="#" class="a">Camaras</a></li>
+          <li class="li"><a href="#" class="a">Teclados</a></li>
+          <li class="li"><a href="#" class="a">Mouse</a></li>
+          <li class="li"><a href="#" class="a">Audifonos</a></li>
+        </ul>
+      </nav>
+      <i class="fa-solid fa-bars menu" id="menu"></i>
+    </header>
+
+    <main class="main">
+      <div class="banner">
+        <img src="./imagenes/Banner/poster.png" alt="banner" class="poster" />
+      </div>
+      <div class="categorias">
+        <a href="#" class="categorias-item" data-value="Computadoras">
+          <img
+            src="./imagenes/Categorias/Rectangle 5-1.png"
+            alt="Computadoras"
+            class="categorias-img"
+          />
+        </a>
+        <a href="#" class="categorias-item" data-value="Celulares">
+          <img
+            src="./imagenes/Categorias/Rectangle 5-2.png"
+            alt="Celulares"
+            class="categorias-img"
+          />
+        </a>
+        <a href="#" class="categorias-item" data-value="Camaras">
+          <img
+            src="./imagenes/Categorias/Rectangle 5.png"
+            alt="Camaras"
+            class="categorias_-mg"
+          />
+        </a>
+      </div>
+      <h2 class="productos-titulo" id="productos">Te podria interesar</h2>
+      <Productos class="productos">
+        <!--  -->
+      </Productos>
+
+      <div class="navegacion">
+        <a href="#productos" class="navegacion-item navegacion-activo">1</a>
+        <a href="#productos" class="navegacion-item">2</a>
+        <a href="#productos" class="navegacion-item">3</a>
+      </div>
+    </main>
+    <section class="modal-productos">
+      <div class="modal-info">
+        <div class="img-container">
+          <img src="" alt="" class="img modal-img" />
+        </div>
+        <h2 class="info"></h2>
+        <p class="precio"></p>
+        <p class="info-parrafo"></p>
+        <button class="info-btn">Comprar</button>
+      </div>
+      <i class="fa-solid fa-xmark cerrar-modal"></i>
+    </section>
+    <footer class="footer">
+      <img src="./imagenes/logo/mediapro-logo.jpg" alt="logo" />
+      <p class="footer-texto">MediaPro 2022</p>
+      <div class="redes">
+        <a href="#" class="redes-link">
+          <i class="fa-brands fa-instagram"></i>
+        </a>
+        <a href="#" class="redes-link">
+          <i class="fa-brands fa-tiktok"></i>
+        </a>
+        <a href="#" class="redes-link">
+          <i class="fa-brands fa-facebook-f"></i>
+        </a>
+      </div>
+    </footer>
+    <script type="module" src="./js/index.js"></script>
+  </body>
+</html>
